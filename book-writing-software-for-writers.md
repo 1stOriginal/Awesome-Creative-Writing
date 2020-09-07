@@ -17,4 +17,10 @@
   <li>FastPencil</li>
   <li>Grammarly</li>
   <li>FocusWriter</li>
+  <li>AutoCrit</li>
+  <li>WriteItNow</li>
+  <li>Novlr</li>
+  <li>Milanote</li>
+  <li>Bibisco</li>
+  <li>Reedsy Book Editor</li>
 </ul>
