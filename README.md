@@ -1,7 +1,7 @@
 # Awesome-Creative-Writing
 
 
-### Creative Writing Tools
+## Creative Writing Tools
 <ul>ONLINE WRITING ENVIRONMENTS
   <li>750WORDS – a simple site to keep up a private diary or daily writing practice. You can earn badges and get some neat metrics after you complete your writing.
   </li><li>GOOGLE DOCS – I wrote a whole post about HOW WRITERS CAN USE GOOGLE DOCS!
