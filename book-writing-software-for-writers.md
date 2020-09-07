@@ -3,12 +3,18 @@
 <ul>
   <li>Scrivener</li>
   <li>Google Docs</li>
-  <li>Google Sheets</li>
   <li>Vellum</li>
   <li>Freedom</li>
   <li>Microsoft Word</li>
-  <li>Microsoft Excel</li>
   <li>Ulysses</li>
   <li>ProWritingAid</li>
   <li>Hemingway App</li>
+  <li>Zoho Writer</li>
+  <li>LibreOffice</li>
+  <li>yWriter</li>
+  <li>Evernote</li>
+  <li>Novelize</li>
+  <li>FastPencil</li>
+  <li>Grammarly</li>
+  <li>FocusWriter</li>
 </ul>
