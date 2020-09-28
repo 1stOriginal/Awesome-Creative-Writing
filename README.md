@@ -109,3 +109,10 @@ MAC APPS FOR WRITERS
 <ul><li>HOTJAR* – create heatmaps of your blog to see where viewers are looking and clicking.
 </li><li>WAVE – As far as I know, this is the only free accounting solution for freelancers and small businesses, and it works a treat!</li>
 </ul>
+
+#### Plagiarism Tools for Creative Writer
+<ul>
+  <li>https://www.grammarly.com/plagiarism-checker</li>
+  <li>https://smallseotools.com/plagiarism-checker/</li>
+  <li>https://www.quetext.com/</li>
+</ul>
