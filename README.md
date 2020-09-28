@@ -120,4 +120,5 @@ MAC APPS FOR WRITERS
 #### Jobs/Career Platform for Creative Writer
 <ul>
   <li>https://contentwritingjobs.com/</li>
+  <li>https://job4writer.org/</li>
 </ul>
