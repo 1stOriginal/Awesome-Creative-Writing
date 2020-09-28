@@ -116,3 +116,8 @@ MAC APPS FOR WRITERS
   <li>https://smallseotools.com/plagiarism-checker/</li>
   <li>https://www.quetext.com/</li>
 </ul>
+
+#### Jobs/Career Platform for Creative Writer
+<ul>
+  <li>https://contentwritingjobs.com/</li>
+</ul>
